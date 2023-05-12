@@ -61,8 +61,7 @@ mkdir YourFolderName
 git clone <project to clone link (HTTPS) >
 ```
 
-##### Next Lesson
-[Module2 Lesson3](Module2%20Lesson7.md)
+
 
 # Sync, Fetch and Pull
 - Sync within github to check for new commits
