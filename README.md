@@ -4,8 +4,7 @@
 unity's project
 ![Git tags vs branches: Differences and when to use them | CircleCI](https://images.ctfassets.net/il1yandlcjgk/6d6SSdiH86vrP0SwIUX5Qp/06f73d724a6cd3714197e68f380a2d22/git-tag-vs-branch.jpg)
 
-our project
-![Git tags vs branches: Differences and when to use them | CircleCI](https://images.ctfassets.net/il1yandlcjgk/6d6SSdiH86vrP0SwIUX5Qp/06f73d724a6cd3714197e68f380a2d22/git-tag-vs-branch.jpg)
+
 Navigate
 
 Navigate to path and create a directory (folder)
