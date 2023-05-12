@@ -83,7 +83,6 @@ Add Some text files!
 
 ```bash
 touch sampletext.txt
-git init
 git add  yourname.txt
 git commit -m 'added my name'
 ```
