@@ -81,7 +81,7 @@ git pull
 Add Some text files!
 
 ```bash
-touch sampletext.txt
+touch yourname.txt
 git add  yourname.txt
 git commit -m 'added my name'
 ```
